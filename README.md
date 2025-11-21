@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiacheng
-- 🌱 I’m currently learning Java&C
+- 🌱 I’m currently learning Python&ML&LLM
 - 📫 How to reach me :jiachenghao0411@gmail.com
 
 
