@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jiacheng
 - 🌱 I’m currently learning Python&ML&LLM
+- Trying Vibe Coding
 - 📫 How to reach me :jiachenghao0411@gmail.com
 
 
